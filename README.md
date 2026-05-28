@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there! I'm Margarita Cantero ✨🦅
-
----
-
 ### 🌸 About Me: Where Science Meets Data
 
 I am a **Data Analyst & Scientist** with a native background in biological sciences and ecology. I love combining the rigorous, curious mind of a researcher with the computational power of data analytics to solve complex business problems, automate workflows, and reveal impactful insights. 
