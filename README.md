@@ -14,11 +14,6 @@ Here are some ideas to get you started:
 -->
 # Hi there! I'm Margarita Cantero ✨🦅
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmbcg&show_icons=true&theme=tokyonight&count_private=true" alt="Margarita's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmbcg&layout=compact&theme=tokyonight&hide=html" alt="Top Languages Used" height="180px"/>
-</p>
-
 ---
 
 ### 🌸 About Me: Where Science Meets Data
